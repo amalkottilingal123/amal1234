@@ -1,0 +1,40 @@
+button{
+    height: 50px;
+    width: 100px;
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid white;
+    border-radius: 60px;
+}
+button:hover{
+    background-color: white;
+    color: rgba(137, 43, 226, 0.075);
+    border-color: rgba(137, 43, 226, 0.027);
+}
+body{
+    background-image: url("./pexels-stein-egil-liland-1933239.jpg");
+    background-size:cover ;
+
+}
+h1{
+    color: rgba(137, 43, 226, 0.301);
+}
+span{
+    color: blue;
+}
+div h1{
+    color: aliceblue;
+
+}
+/* disendend tag */
+h1,p{
+    color: darkturquoise;
+}
+a{
+    color: chartreuse;
+    text-decoration: none;
+    text-align: justify;
+}
+
+
+

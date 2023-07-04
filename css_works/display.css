@@ -1,0 +1,32 @@
+.row{
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    /* justify -content: space-between; */
+   /* justify-content:space-around */
+    /* justify-content: center;
+     */
+     align-items: center;
+     
+
+}
+.col{
+    height: 300px;
+    width: 200px;
+    border:  black 2px solid;
+}
+.col-1{
+    background-color: aqua;
+}
+.col-2{
+    background-color: rgb(23, 5, 73);
+}
+.col-3{
+    background-color: rgb(77, 4, 80);
+}
+.col-4{
+    background-color: rgb(16, 197, 31);
+}
+h3{
+    color: aliceblue;
+}

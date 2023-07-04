@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Tilt+Prism&display=swap');
+
+div{
+    height: 958px;
+    width: 22%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: white 3px solid;
+    float: left;
+    padding: 10px;
+    border: 2px black double;
+}
+h1{
+    text-align: center;
+}
+img{
+    height: 37%;
+    width: 99%;
+}
+p{
+    font-size: large;
+    font-family: 'Tilt Prism', cursive;
+
+}

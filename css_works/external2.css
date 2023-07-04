@@ -1,0 +1,33 @@
+h1{
+    color: green;
+}
+#d1{
+    color: orange;
+}
+.c{
+    color: blueviolet;
+}
+.c1{
+    background-color: black;
+}
+.c2{
+    background-color: brown;
+    text-align: right;
+}
+body{
+    background-color: blanchedalmond;
+
+}
+div{
+    background-color: cyan;
+}
+#d2{
+    background:orangered ;
+}
+div {
+    background-color: rgb(245, 220, 224);
+    text-align: center;
+}
+#d3{
+    background-color: black;
+}

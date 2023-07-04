@@ -1,0 +1,113 @@
+#{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgba(0, 0, 0, 0.7)url("./Hamburger_Beer_Vegetables_Tomatoes_Black_543151_1280x952.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container h1{
+    color: rgb(190, 57, 64);
+    margin-left: 210px;
+    cursor: pointer;
+    font-size: 50px;
+   
+    font-style: italic;
+    
+}
+.navbar ul li{
+    display: inline-block;
+    padding: 18px;
+    text-transform: uppercase;
+
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 4px;
+}
+.navbar ul li a:hover{
+    box-shadow: 0 3px 15px orangered inset, 0 3px 15px orangered inset, 0 3px 15px orangered inset, 0 3px 15px orangered inset, 0 3px 15px orangered inset, 0 3px 15px orangered inset, 0 3px 15px orangered inset ;
+    
+}
+.navbar .reservation{
+    padding: 8px;
+    background-color: orangered;
+}
+.content{
+    position:absolute;
+    color: #fff;
+    top: 40%;
+    left: 30%;
+
+
+}
+.content h3{
+    font-family: sans-serif;
+    font-size: 30px;
+     margin-left: 2%;
+     color: #fff;
+}
+  h1{
+    font-size: 30px;
+    color:white ;
+    text-align: center;
+    margin-top: 5px;
+}
+ p{
+    text-align: center;
+    margin-top: 17px;
+    color: #fff;
+    font-style: italic;
+}
+h3{
+    color: #fff;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+}
+.search{
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 42%;
+}
+.search input{
+    outline: none;
+    border: none;
+    padding: 12px 40px;
+    size: 1em;
+    width: 100%;
+}
+.submit{
+    position: absolute;
+    margin-top: 31%;
+    margin-left: 49%;
+}
+.submit a{
+    text-decoration: none;
+    color: #fff;
+    padding: 12px 28px;
+    background-color: orangered;
+}
+i{
+    margin-top: 50px;
+}
+#d1{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+}
+
+    
+
+

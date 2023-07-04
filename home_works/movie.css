@@ -1,0 +1,47 @@
+div{
+  height:523px ;
+  width: 319px;
+  background-color:black ;
+  border: white solid;
+  float: left;
+  margin-top: 12px;
+  margin-left: 33px;
+  border-radius: 50px;
+  color: white;
+  text-align: center;
+  
+  
+
+}
+h1{
+  text-align:center ;
+  color: blanchedalmond;
+}
+img{
+  border-radius: 50px;
+}
+
+button{
+  background-color: violet;
+  border-color:white;
+  border-radius: 15px;
+  bo
+}
+button:hover{
+  background-color: white;
+  color: violet;
+  border-color: rgba(137, 43, 226, 0.027);
+}
+body{
+ background-image: url("./download\ \(14\).jfif");
+ background-size: cover;
+}
+div {
+  box-shadow: 10px 10px 5px lightblue;
+}
+i{
+
+}
+
+
+
